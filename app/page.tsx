@@ -123,11 +123,11 @@ export default function Home() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
               <Button size="lg" className="w-full sm:w-auto bg-green-600 hover:bg-green-700">
-                Start Free Trial
+                Try out Virtual HR
                 <ArrowRight className="ml-2 h-4 w-4" />
               </Button>
               <Button size="lg" variant="outline" className="w-full sm:w-auto border-green-200 hover:bg-green-50">
-                Schedule Demo
+                Visit Dashboard
               </Button>
             </div>
           </motion.div>
